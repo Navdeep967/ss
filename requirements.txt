@@ -1,0 +1,6 @@
+pytesseract
+pyautogui
+opencv-python
+pillow
+keyboard
+pyperclip
